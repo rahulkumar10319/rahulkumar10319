@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 
 <h3 align="center">
-  Software Engineering Student • Java Developer • Problem Solver
+  • Software Engineering Student •
 </h3>
 
 <p align="center">
