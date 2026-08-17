@@ -47,14 +47,6 @@ const rahul = {
 };
 
 
-<br>
+> 🎯 Passionate about **Java, Web Development, DSA, and building practical software solutions**.
 
-🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.
-
-<br>
-
-🎯 Focused on Software Development, DSA, DBMS, and Problem Solving.
-
-<br>
-
-💡 Always learning, building, experimenting, and looking for opportunities to grow as a developer.
+> 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
