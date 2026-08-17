@@ -45,11 +45,8 @@ const rahul = {
   goal:        "To become a skilled software developer and build impactful solutions.",
   motto:       "I turn ideas into projects and challenges into experience. 🚀"
 };
-```text
-  motto: "I turn ideas into projects...";
-};
-> 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.
->
-> 🎯 Passionate about **Java, Web Development, DSA, and building practical software solutions**.
->
+```
+
+> 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.  
+> 🎯 Passionate about **Java, Web Development, DSA, and building practical software solutions**.  
 > 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
