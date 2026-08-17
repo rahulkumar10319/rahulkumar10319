@@ -45,6 +45,16 @@ const rahul = {
   goal:        "To become a skilled software developer and build impactful solutions.",
   motto:       "I turn ideas into projects and challenges into experience. 🚀"
 };
+
+
+<br>
+
 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.
+
+<br>
+
 🎯 Focused on Software Development, DSA, DBMS, and Problem Solving.
+
+<br>
+
 💡 Always learning, building, experimenting, and looking for opportunities to grow as a developer.
