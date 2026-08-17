@@ -36,17 +36,16 @@
 ```javascript
 const rahul = {
   role:        "Software Engineering Student · Developer · Problem Solver",
-  location:    "Karachi, Pakistan 🇵🇰",
-  education:   "BS Software Engineering @ SZABIST",
+  education:   "BS Software Engineering @ SZABIST KHI (3rd year)",
   building:    ["Java Projects", "Web Applications", "Database Systems"],
   learning:    "Data Structures · DBMS · Backend Development",
-  skills:      ["Java", "C", "Python", "JavaScript"],
-  interests:   ["Software Development", "DSA", "Problem Solving"],
-  goal:        "To become a skilled software developer and build impactful solutions.",
-  motto:       "I turn ideas into projects and challenges into experience. 🚀"
+  skills:      ["Java", "HTML", "UI/UX", "JavaScript"],
+interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
+   location:    "Karachi sindh, Pakistan 🇵🇰",
+  objective:   "To become a skilled software developer and build impactful solutions.",
+  mindset:     "I turn ideas into projects and challenges into experience. 🚀"
 };
 ```
 
 > 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.  
-> 🎯 Passionate about **Java, Web Development, DSA, and building practical software solutions**.  
 > 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
