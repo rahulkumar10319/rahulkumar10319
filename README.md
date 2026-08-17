@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:06b6d4&height=230&section=header&text=Rahul%20Kumar&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/rahulkumar10319/rahulkumar10319/main/header.svg" width="100%"/>
+
+<br>
+
+<h2>⚡ Building, Learning & Creating with Code</h2>
 
 <br>
 
