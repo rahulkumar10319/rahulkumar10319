@@ -29,6 +29,11 @@
 </a>
 
 </div>
+
+
+## 👋 About Me
+
+```javascript
 const rahul = {
   role:        "Software Engineering Student · Developer · Problem Solver",
   location:    "Karachi, Pakistan 🇵🇰",
@@ -37,5 +42,6 @@ const rahul = {
   learning:    "Data Structures · DBMS · Backend Development",
   skills:      ["Java", "C", "Python", "JavaScript"],
   interests:   ["Software Development", "DSA", "Problem Solving"],
-  motto:       "Learn. Build. Improve. Repeat. 🚀"
+  goal:        "To become a skilled software developer and build impactful solutions.",
+  motto:       "I turn ideas into projects and challenges into experience. 🚀"
 };
