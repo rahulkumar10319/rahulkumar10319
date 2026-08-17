@@ -29,3 +29,13 @@
 </a>
 
 </div>
+const rahul = {
+  role:        "Software Engineering Student · Developer · Problem Solver",
+  location:    "Karachi, Pakistan 🇵🇰",
+  education:   "BS Software Engineering @ SZABIST",
+  building:    ["Java Projects", "Web Applications", "Database Systems"],
+  learning:    "Data Structures · DBMS · Backend Development",
+  skills:      ["Java", "C", "Python", "JavaScript"],
+  interests:   ["Software Development", "DSA", "Problem Solving"],
+  motto:       "Learn. Build. Improve. Repeat. 🚀"
+};
