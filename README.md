@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rahul%20Kumar&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20•%20Developer%20•%20Problem%20Solver&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=220&section=header&text=Rahul%20Kumar&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20Student%20•%20Developer%20•%20Problem%20Solver&descAlignY=64&descSize=19" width="100%"/>
 
 <br>
 
 <h2>💻 Turning ideas into code, and code into solutions.</h2>
 
 <br>
+
+<!-- YAHAN SE AAPKA PROFILE VIEWS / FOLLOWERS / LINKEDIN / GITHUB / EMAIL CODE CONTINUE HOGA -->
 
 <a href="https://komarev.com/ghpvc/?username=rahulkumar10319">
   <img src="https://komarev.com/ghpvc/?username=rahulkumar10319&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
