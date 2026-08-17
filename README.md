@@ -5,8 +5,6 @@
 
 <br>
 
-<h2>⚡ Building, Learning & Creating with Code</h2>
-
 <h2>
   <span style="color:#67e8f9;">⚡ Turning ideas</span>
   <span style="color:#c084fc;"> into code</span>
