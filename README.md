@@ -7,15 +7,11 @@
 
 <h2>⚡ Building, Learning & Creating with Code</h2>
 
-<div align="center">
-
 <h2>
   <span style="color:#67e8f9;">⚡ Turning ideas</span>
   <span style="color:#c084fc;"> into code</span>
   <span style="color:#f0abfc;">, and code into solutions.</span>
 </h2>
-
-</div>
 
 <!-- YAHAN SE AAPKA PROFILE VIEWS / FOLLOWERS / LINKEDIN / GITHUB / EMAIL CODE CONTINUE HOGA -->
 
