@@ -1,71 +1,56 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+<img src="https://raw.githubusercontent.com/rahulkumar10319/rahulkumar10319/main/header.svg" width="100%"/>
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
 
-###
+<br>
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2>
+  <span style="color:#67e8f9;">⚡ Turning ideas</span>
+  <span style="color:#c084fc;"> into code</span>
+  <span style="color:#f0abfc;">, and code into solutions.</span>
+</h2>
 
-###
+<!-- YAHAN SE AAPKA PROFILE VIEWS / FOLLOWERS / LINKEDIN / GITHUB / EMAIL CODE CONTINUE HOGA -->
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<a href="https://komarev.com/ghpvc/?username=rahulkumar10319">
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar10319&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-###
+<a href="https://github.com/rahulkumar10319?tab=followers">
+  <img src="https://img.shields.io/github/followers/rahulkumar10319?label=FOLLOWERS&style=for-the-badge&color=00BFFF" alt="Followers"/>
+</a>
 
-<h2 data-importer="text" align="left">I code with</h2>
+<a href="https://www.linkedin.com/in/rahul-maheshwari-7375152b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-###
+<a href="https://github.com/rahulkumar10319" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<a href="mailto:rahulkella661@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
-###
 
-<p data-importer="text" align="left">Hello World!!</p>
+## 👋 About Me
 
-###
+```javascript
+const rahul = {
+  role:        "Software Engineering Student · Developer · Problem Solver",
+  education:   "BS Software Engineering @ SZABIST KHI (3rd year)",
+  building:    ["Java Projects", "Web Applications", "Database Systems"],
+  learning:    "Data Structures · DBMS · Backend Development",
+  skills:      ["Java", "HTML", "UI/UX", "JavaScript"],
+interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
+   location:    "Karachi sindh, Pakistan 🇵🇰",
+  objective:   "To become a skilled software developer and build impactful solutions.",
+  mindset:     "I turn ideas into projects and challenges into experience. 🚀"
+};
+```
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
+> 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.  
+> 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
