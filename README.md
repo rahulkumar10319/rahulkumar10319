@@ -159,4 +159,32 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-0891B2?style=for-the-badge"/>
 
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Web & Backend
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 📱 Databases
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-778899?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🧠 Core Skills
+![Data Structures](https://img.shields.io/badge/DATA%20STRUCTURES-6A0DAD?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-1E90FF?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-20B2AA?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-FF1493?style=for-the-badge)
 </div>
