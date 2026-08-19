@@ -126,7 +126,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ### 🗄️ Databases
 
-![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)<br><br>
+![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)<br>
 
 ### 🔧 Tools & Technologies
 
