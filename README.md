@@ -131,8 +131,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ### 🗄️ Databases
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+[![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
 
 <br><br>
 
