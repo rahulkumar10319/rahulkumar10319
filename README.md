@@ -119,8 +119,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ### 💻 Languages
 
-[![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css,mysql)](https://skillicons.dev)
 <br><br>
 
 ### 🌐 Web & Backend
