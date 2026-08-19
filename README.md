@@ -58,3 +58,54 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 > 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.  
 > 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
+
+
+## 🚀 Explore All My Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### ✈️ SkyLink Flight Management System
+
+> Java-based flight and passenger management application.
+
+**Tech Stack:** `Java` `Swing` `Linked Lists`
+
+- Flight management
+- Passenger management
+- Search & booking functionality
+- User-friendly GUI
+- Data Structures implementation
+
+</td>
+
+<td width="50%">
+
+### 📊 Batch Wise GPA Calculation
+
+> Database-driven web application for calculating and managing batch GPAs.
+
+**Tech Stack:** `Node.js` `Express` `PostgreSQL` `JavaScript`
+
+- Batch-wise GPA calculation
+- Student data management
+- PostgreSQL database
+- Dynamic web interface
+- Automated GPA processing
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/rahulkumar10319?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
+</a>
+
+</div>
