@@ -114,7 +114,8 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ## 🛠️ Tech Arsenal
 <div align="center">
-### 💻 Languages
+
+  ### 💻 Languages
 ![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css,mysql)<br><br>
 ### 🌐 Web & Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
