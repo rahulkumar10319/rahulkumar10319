@@ -132,19 +132,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 ### 🗄️ Databases
 
 [![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
-
 <br><br>
-
 ### 🔧 Tools & Technologies
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://skillicons.dev/icons?i=vite,nodejs,express,react,nextjs,tailwind" alt="Skills" />
-
-<br><br>
-
-[![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=figma,canva,vscode,arduino,github,git)](https://skillicons.dev)
 </div>
