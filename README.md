@@ -116,14 +116,20 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 <div align="center">
 
   ### 💻 Languages
+
 ![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css,mysql)<br><br>
 ### 🌐 Web & Backend
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <br><br>
+
 ### 🗄️ Databases
+
 ![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)<br><br>
+
 ### 🔧 Tools & Technologies
+
 ![Skills](https://skillicons.dev/icons?i=figma,vscode,arduino,github,git)
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 </div>
