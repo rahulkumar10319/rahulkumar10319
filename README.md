@@ -17,6 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=rahulkumar10319&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
 </a>
 
+<a href="https://github.com/rahulkumar10319/rahulkumar10319/blob/main/Rahul-Kumar-Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-View%20Resume-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
+
 <a href="https://github.com/rahulkumar10319?tab=followers">
   <img src="https://img.shields.io/github/followers/rahulkumar10319?label=FOLLOWERS&style=for-the-badge&color=00BFFF" alt="Followers"/>
 </a>
