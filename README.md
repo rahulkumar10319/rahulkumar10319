@@ -153,18 +153,5 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 <br><br>
 
-### 🧠 Core Skills
-
-<img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-0891B2?style=for-the-badge"/>
-
-### 🚀 Frameworks & Backend
-![Skills](https://skillicons.dev/icons?i=vite,nodejs,express,react,nextjs)
-
-### ☁️ Cloud & DevOps
-![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,rust)
-
-### 📱 Databases
-![Skills](https://skillicons.dev/icons?i=mariadb,mongodb,postgresql)
+[![Skills](https://skillicons.dev/icons?i=java,c,python,html,js,css)](https://skillicons.dev)
 </div>
