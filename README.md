@@ -134,5 +134,9 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 [![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
 <br><br>
 ### 🔧 Tools & Technologies
-![Skills](https://skillicons.dev/icons?i=figma,canva,vscode,arduino,github,git)
-</div>
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)</div>
