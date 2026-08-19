@@ -1,56 +1,9 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">software engineering student</h3>
 
-<img src="https://raw.githubusercontent.com/rahulkumar10319/rahulkumar10319/main/header.svg" width="100%"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-<br>
-
-<h2>
-  <span style="color:#67e8f9;">⚡ Turning ideas</span>
-  <span style="color:#c084fc;"> into code</span>
-  <span style="color:#f0abfc;">, and code into solutions.</span>
-</h2>
-
-<!-- YAHAN SE AAPKA PROFILE VIEWS / FOLLOWERS / LINKEDIN / GITHUB / EMAIL CODE CONTINUE HOGA -->
-
-<a href="https://komarev.com/ghpvc/?username=rahulkumar10319">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumar10319&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/rahulkumar10319?tab=followers">
-  <img src="https://img.shields.io/github/followers/rahulkumar10319?label=FOLLOWERS&style=for-the-badge&color=00BFFF" alt="Followers"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rahul-maheshwari-7375152b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/rahulkumar10319" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:rahulkella661@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-
-## 👋 About Me
-
-```javascript
-const rahul = {
-  role:        "Software Engineering Student · Developer · Problem Solver",
-  education:   "BS Software Engineering @ SZABIST KHI (3rd year)",
-  building:    ["Java Projects", "Web Applications", "Database Systems"],
-  learning:    "Data Structures · DBMS · Backend Development",
-  skills:      ["Java", "HTML", "UI/UX", "JavaScript"],
-interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
-   location:    "Karachi sindh, Pakistan 🇵🇰",
-  objective:   "To become a skilled software developer and build impactful solutions.",
-  mindset:     "I turn ideas into projects and challenges into experience. 🚀"
-};
-```
-
-> 🚀 I enjoy turning ideas into practical software projects and continuously improving my development skills.  
-> 💡 Always learning, experimenting with new technologies, and turning challenges into opportunities to grow.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
