@@ -131,8 +131,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ### 🗄️ Databases
 
-[![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
-<br><br>
+![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)<br><br>
 ### 🔧 Tools & Technologies
 ![Skills](https://skillicons.dev/icons?i=figma,vscode,arduino,github,git)
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
