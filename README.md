@@ -158,6 +158,5 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 <img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-EC4899?style=for-the-badge"/>
 
 </div>
