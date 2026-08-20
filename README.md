@@ -190,14 +190,4 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 </p>
 
 ---
-
-<p align="center">
-
-### 💡 Build • Learn • Debug • Create
-
-**Always learning. Always building. Always improving. 🚀**
-
-</p>
-
-
 ![Thank you banner](./footer-banner.svg)
