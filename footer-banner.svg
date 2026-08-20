@@ -1,0 +1,37 @@
+<svg width="1320" height="340" viewBox="0 0 1320 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="35%" stop-color="#3b82f6"/>
+      <stop offset="55%" stop-color="#a855f7"/>
+      <stop offset="75%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="txtgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="1304" height="324" rx="24" fill="#0b0a1f"/>
+
+  <circle cx="150" cy="90" r="3" fill="#22d3ee"/>
+  <circle cx="250" cy="60" r="3" fill="#a855f7"/>
+  <circle cx="1000" cy="75" r="3" fill="#22d3ee"/>
+  <circle cx="1150" cy="100" r="2.5" fill="#ec4899"/>
+
+  <polyline points="20,270 160,215 300,255 430,150 570,195 700,150 830,195 970,140 1110,90 1250,120 1300,140"
+            fill="none" stroke="url(#line1)" stroke-width="4"
+            stroke-linejoin="round" stroke-linecap="round"/>
+
+  <circle cx="300" cy="255" r="4" fill="#a855f7"/>
+  <circle cx="830" cy="195" r="4" fill="#d946ef"/>
+
+  <text x="660" y="130" text-anchor="middle" font-size="62" font-weight="700"
+        fill="url(#txtgrad)" font-family="Arial, sans-serif">Thank You for Visiting!</text>
+
+  <text x="660" y="240" text-anchor="middle" font-size="26" font-weight="700"
+        letter-spacing="1" fill="#22d3ee" font-family="Arial, sans-serif">
+    KEEP LEARNING • KEEP BUILDING • KEEP CREATING
+  </text>
+</svg>
