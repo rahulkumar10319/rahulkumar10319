@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:rahulkella661@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Contact-rahulkella661%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkella661@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
 </a>
 
 </div>
