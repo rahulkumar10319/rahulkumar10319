@@ -214,4 +214,4 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 </div>
 
-![Thank you banner](./assets/footer-banner.svg)
+![Thank you banner](./footer-banner.svg)
