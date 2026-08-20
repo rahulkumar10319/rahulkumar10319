@@ -133,3 +133,54 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 ![Skills](https://skillicons.dev/icons?i=figma,vscode,arduino,github,git)
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 </div>
+
+
+
+---
+
+## 🏆 Certifications & Milestones
+
+| 🏅 | Achievement |
+|---|---|
+| 🥇 | **Code Debugging Competition — Runner-up**, ZAB-E-FEST 2025 |
+| 💻 | **Speed Coding Competition**, ZAB-E-FEST 2025 |
+| 🗄️ | **DBMS Project Competition**, ZAB-E-FEST 2026 |
+| 🌐 | **Web Development Projects & Practical Software Development** |
+
+---
+
+## 🎯 Leadership & Community
+
+- 🎪 **IT Team Co-Leader** — ZAB-E-FEST 2025 (University Tech Event)
+- 🌍 **Leader** — SDGs Awareness Workshop
+- 🤝 **Team Collaboration & Event Management** — University Activities
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rahulkella661@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-maheshwari-7375152b0/" target="_blank">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/rahulkumar10319" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Build • Learn • Debug • Create
+
+**Always learning. Always building. Always improving. 🚀**
+
+</p>
