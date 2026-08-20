@@ -34,7 +34,7 @@
 </a>
 
 <a href="mailto:rahulkella661@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email%20Contact-rahulkella661%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
 </a>
 
 </div>
