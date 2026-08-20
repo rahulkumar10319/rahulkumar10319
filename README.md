@@ -175,9 +175,8 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:rahulkella661@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkella661@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahul-maheshwari-7375152b0/" target="_blank">
