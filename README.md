@@ -198,3 +198,18 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 **Always learning. Always building. Always improving. 🚀**
 
 </p>
+<br>
+
+<div align="center">
+
+<h2>
+  <span style="color:#0891b2;">✨ Thank You for Visiting!</span>
+</h2>
+
+<p>
+  <span style="color:#7c3aed;">
+    Keep learning • Keep building • Keep creating 🚀
+  </span>
+</p>
+
+</div>
