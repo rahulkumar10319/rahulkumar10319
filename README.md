@@ -211,6 +211,6 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
     Keep learning • Keep building • Keep creating 🚀
   </span>
 </p>
-![Thank you banner](./footer-banner.svg)
-</div>
 
+</div>
+![Thank you banner](./assets/footer-banner.svg)
