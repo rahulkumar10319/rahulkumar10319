@@ -138,6 +138,21 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ---
 
+---
+
+## 💼 Experience
+
+### ⚓ Karachi Port Trust (KPT)
+**IT Department — Software / IT Intern**  
+`6 Weeks Internship`
+
+- Gained practical exposure to **IT operations and software systems** in a government organization.
+- Worked with the **IT Department** and gained understanding of enterprise-level software workflows.
+- Learned about **software management, database systems, and IT infrastructure**.
+- Developed practical understanding of how technology supports **port operations and organizational processes**.
+
+---
+
 ## 🏆 Certifications & Milestones
 
 | 🏅 | Achievement |
