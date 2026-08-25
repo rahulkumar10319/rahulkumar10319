@@ -21,7 +21,13 @@
 <a href="https://github.com/rahulkumar10319/rahulkumar10319/blob/main/Rahul-Kumar-Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/RESUME-View%20Resume-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
+<a href="mailto:rahulkella661@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
+<a href="YOUR-WEBSITE-LINK-HERE" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20WEBSITE-LIVE%20SITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website"/>
+</a>
 <a href="https://github.com/rahulkumar10319?tab=followers">
   <img src="https://img.shields.io/github/followers/rahulkumar10319?label=FOLLOWERS&style=for-the-badge&color=00BFFF" alt="Followers"/>
 </a>
