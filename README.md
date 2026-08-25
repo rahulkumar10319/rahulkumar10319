@@ -16,7 +16,6 @@
 <a href="https://komarev.com/ghpvc/?username=rahulkumar10319">
   <img src="https://komarev.com/ghpvc/?username=rahulkumar10319&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 
 <a href="https://github.com/rahulkumar10319/rahulkumar10319/blob/main/Rahul-Kumar-Resume.pdf" target="_blank">
