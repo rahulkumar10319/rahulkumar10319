@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/EMAIL-ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="YOUR-WEBSITE-LINK-HERE" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20WEBSITE-LIVE%20SITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website"/>
+<a href="https://stunning-nougat-845c90.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20MY%20WEBSITE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website"/>
 </a>
 <a href="https://github.com/rahulkumar10319?tab=followers">
   <img src="https://img.shields.io/github/followers/rahulkumar10319?label=FOLLOWERS&style=for-the-badge&color=00BFFF" alt="Followers"/>
