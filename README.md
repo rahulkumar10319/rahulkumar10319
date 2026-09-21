@@ -179,7 +179,15 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 - 🤝 **Team Collaboration & Event Management** — University Activities
 
 ---
+## ⚡ IEEE SZABIST Society
 
+- 🎯 **Assistant Director — Logistics & Operations**  
+  **IEEE SZABIST Society | 2026–27**
+
+- 📦 Supporting logistics planning, coordination, and smooth execution of society activities and events.
+
+- 🤝 Working with the team to coordinate resources, manage event operations, and ensure effective on-ground execution.
+- 
 ## 🌐 Connect With Me
 
 <p align="center">
