@@ -148,9 +148,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/💼%20EXPERIENCE-172554?style=for-the-badge&labelColor=1E3A8A&color=172554" />
-</div>
+## 💼 Experience
 
 ### ⚓ Karachi Port Trust (KPT)
 **IT Department — Software / IT Intern**  
