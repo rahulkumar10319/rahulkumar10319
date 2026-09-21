@@ -148,7 +148,7 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 
 ---
 
-## 💼 Experience
+<h2 style="color:#1E3A8A;">💼 Experience</h2>
 
 ### ⚓ Karachi Port Trust (KPT)
 **IT Department — Software / IT Intern**  
