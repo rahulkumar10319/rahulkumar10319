@@ -169,8 +169,8 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 | 💻 | **Speed Coding Competition**, ZAB-E-FEST 2025 |
 | 🗄️ | **DBMS Project Competition**, ZAB-E-FEST 2026 |
 | 🌐 | **Web Development Projects & Practical Software Development** |
-
----
+| 📊 | **Introduction to Data Science** — Cisco Networking Academy |
+| 🤖 | **AI & Claude Academy Certifications** — Claude Academy |
 
 ## 🎯 Leadership & Community
 
