@@ -171,8 +171,9 @@ interests:   ["UI/UX Design", "Creative Interfaces", "Web Development"],
 | 🌐 | **Web Development Projects & Practical Software Development** |
 | 📊 | **Introduction to Data Science** — Cisco Networking Academy |
 | 🤖 | **AI & Claude Academy Certifications** — Claude Academy |
-| ☁️ | **Azure Fundamentals** —  / 10Pearls University |
-| 🍃 | **MongoDB** —  / 10Pearls University |
+| ☁️ | **Azure Fundamentals** — NASTP / 10Pearls University |
+| 🍃 | **MongoDB** — NASTP / 10Pearls University |
+| 🌐 | **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy |
 
 ## 🎯 Leadership & Community
 
